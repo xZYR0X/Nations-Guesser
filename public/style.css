@@ -1,7 +1,7 @@
 :root{
     --bg: #080b12;
     --bg-sections: #111827;
-    --nav: #1a2638;
+    /* --nav: #1a2638; */
     --text: #9aafc5;
     --headings: #e5f3ff;
     --button: #00e5ff;
@@ -26,7 +26,6 @@ h1,h2,h3{
 .intro{
     display: flex;
     align-items: center;
-    justify-content: center;
     margin-top: 25vh;
     gap: 50px;
     width: 50vw;
@@ -116,4 +115,65 @@ h1,h2,h3{
 .A{
     width: 60vw;
     height: 60vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.A h1{
+    margin-top: 15px;
+    font-size: 64px;
+    font-weight: 800;
+    text-align: center;
+}
+#limit{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+}
+label{
+    font-size: 36px;
+    font-weight: 750;
+    text-align: center;
+    margin-bottom: 15px;
+}
+#limit input[type="number"]{
+    width: 145px;
+    color: var(--text);
+    height: 50px;
+    text-align: center;
+    border: none;
+    border-radius: 30px;
+    background-color: var(--bg);
+}
+#difficulty{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#buttons{
+    display: flex;
+    gap: 5px;
+}
+.btn{
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    border: none;
+    border-radius: 30px;
+    background-color: var(--bg);
+    color: var(--text);
+}
+#submit{
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.submit-btn{
+    background-color: var(--button);
+    color: var(--bg);
+    font-size: 25px;
+    font-weight: 500;
+    font-family: 'Fredoka', sans-serif;
 }
