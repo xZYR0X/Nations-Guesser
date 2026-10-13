@@ -25,7 +25,7 @@
             <img src="b.png" class="displaynone" alt="a">
 
             <h1>Nexora</h1>
-            <form id="form">
+            <form id="form" action="save">
                 <div id="limit">
                     <label>Enter the number of nations to generate!</label>
                     <input type="number" min="0" max="5" placeholder=" From 1 to 5">
@@ -34,10 +34,10 @@
                 <div id="difficulty">
                     <label>Select the difficulty!</label>
                     <div id="buttons">
-                    <button type="button" class="btn diff-btn">Easy</button>
-                    <button type="button" class="btn diff-btn">Medium</button>
-                    <button type="button" class="btn diff-btn">Hard</button>
-                    <button type="button" class="btn diff-btn">Extreme</button>
+                    <button type="button" class="btn diff-btn active" data-diff="easy" >Easy</button>
+                    <button type="button" class="btn diff-btn" data-diff="medium" >Medium</button>
+                    <button type="button" class="btn diff-btn" data-diff="hard" >Hard</button>
+                    <button type="button" class="btn diff-btn" data-diff="extreme">Extreme</button>
                     </div>
                 </div>
 

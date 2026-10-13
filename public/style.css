@@ -232,3 +232,9 @@ label{
         bottom: 110vh;
     }
 }
+button, a{
+    cursor: pointer;
+}
+.active{
+    border: 1px solid var(--border);
+}

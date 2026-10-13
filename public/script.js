@@ -1,3 +1,7 @@
+const { response } = require("express");
+
+let active;
+
 function hallowenstuff(){
     const ghost = document.querySelector('.spooky');
     console.log("ADDED")
@@ -7,3 +11,36 @@ function hallowenstuff(){
         console.log("REMOVED")
     }, 1500);
 }
+
+const diffbtns = document.querySelectorAll('.diff-btn');
+diffbtns.forEach((diffbtn)=>{
+    diffbtn.addEventListener('click', ()=>{
+        diffbtns.forEach((diffbtnn)=>{
+            diffbtnn.classList.remove('active');
+        })
+        diffbtn.classList.add('active');
+        active = diffbtn.dataset.diff;
+        console.log(active);
+    })
+    })
+
+const form = document.querySelector('form');
+form.addEventListener('submit', (e)=>{
+    e.preventDefault();
+    const num = document.querySelector('input[type="number"]').value;
+    console.log(active);
+    console.log(num);
+
+    fetch('/save', {
+        method: "POST",
+        headers: {"Content-type": "application/json"},
+        body: JSON.stringify({
+            diff: active,
+            num: num
+        })
+    })
+    .then(response=> response.json())
+    .then(result=>{
+
+    })
+})
