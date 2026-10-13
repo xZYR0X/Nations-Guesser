@@ -1,0 +1,119 @@
+:root{
+    --bg: #080b12;
+    --bg-sections: #111827;
+    --nav: #1a2638;
+    --text: #9aafc5;
+    --headings: #e5f3ff;
+    --button: #00e5ff;
+    --border: rgba(0, 229, 255, 0.24);
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--bg);
+    color: var(--text);
+    font-family: 'Nunito Sans', sans-serif;
+}
+h1,h2,h3{
+    font-family: 'Fredoka', sans-serif;
+}
+.intro{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 25vh;
+    gap: 50px;
+    width: 50vw;
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    height: 50vh;
+    background-color: var(--bg-sections);
+}
+#code{
+    background-color: black;
+    width: 40%;
+    height: 50%;
+    /* display: flex;
+    flex-direction: column; */
+    padding: 15px;
+}
+#code-head{
+    width: 100%;
+    margin-bottom: 8px;
+    padding: 5px;
+    border-bottom: 1px solid var(--border);
+}
+#close-adjust-minimize{
+    display: flex;
+    gap: 10px;
+}
+.red{
+    background: red;
+    border-radius: 50%;
+    width: 12px;
+    height: 12px;
+}
+.yellow{
+    background-color: yellow;
+    border-radius: 50%;
+    width: 12px;
+    height: 12px;
+}
+.green{
+    background-color: green;
+    border-radius: 50%;
+    width: 12px;
+    height: 12px;
+}
+.command{
+    color: red;
+}
+.text{
+    color: #1ee24c;
+}
+#code-info{
+    width: 100%;
+}
+.line{
+    width: 100%;
+    margin: 3px;
+}
+#info{
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+#info h2{
+    font-size: 88px;
+    font-weight: 800;
+    margin-top: 5px;
+}
+#info p{
+    font-size: 20px;
+    margin-top: 5px;
+}
+#info a{
+    text-decoration: none;
+    text-align: center;
+    background-color: var(--button);
+    width: 90px;
+    height: 30px;
+    font-family: 'Fredoka', sans-serif;
+    padding: 10px;
+    border: 1px solid var(--border);
+    color: var(--bg-sections);
+    border-radius: 12px;
+    margin-top: 15px;
+}
+.A{
+    width: 60vw;
+    height: 60vh;
+}
