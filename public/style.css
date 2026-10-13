@@ -26,9 +26,10 @@ h1,h2,h3{
 .intro{
     display: flex;
     align-items: center;
+    padding: 15px;
     margin-top: 25vh;
     gap: 50px;
-    width: 50vw;
+    width: 55vw;
     border: 1px solid var(--border);
     border-radius: 10px;
     height: 50vh;
@@ -38,6 +39,7 @@ h1,h2,h3{
     background-color: black;
     width: 40%;
     height: 50%;
+    margin-left: 50px;
     /* display: flex;
     flex-direction: column; */
     padding: 15px;
@@ -89,6 +91,7 @@ h1,h2,h3{
     align-items: center;
     flex-direction: column;
     justify-content: center;
+    margin-left: 100px;
 }
 #info h2{
     font-size: 88px;
@@ -176,4 +179,56 @@ label{
     font-size: 25px;
     font-weight: 500;
     font-family: 'Fredoka', sans-serif;
+}
+.intro{
+    position: relative;
+}
+.hallowen-spookystuffs{
+    position: absolute;
+    right: -30px;
+    top: -30px;
+}
+.hallowen-spookystuffs img{
+    height: 60px;
+    width: 70px;
+    background: transparent;
+    transform: rotate(45deg);
+}
+.hallowen-spookystuffss img{
+    height: 150px;
+    width: 150px;
+    transform: rotate(-25deg);
+    background: transparent;
+}
+.hallowen-spookystuffss{
+    position: absolute;
+    left: -67px;
+    top: -67px;
+}
+.hallowen-funitem{
+    display: block !important;
+    position: fixed;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: -150px;
+    pointer-events: none;
+    height: auto;
+    width: 250px;
+    animation: shootup 0.6s  cubic-bezier(0.25, 1, 0.5, 1) forwards;
+}
+.displaynone{
+    display: none;
+}
+@keyframes shootup{
+    0%{
+        bottom: -150px;
+        opacity: 1;
+    }
+    80%{
+        opacity: 1;
+    }
+    100%{
+        opacity: 0;
+        bottom: 110vh;
+    }
 }
