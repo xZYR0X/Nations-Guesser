@@ -1,0 +1,1052 @@
+[
+  {
+    "country": "Egypt",
+    "clue1": "It is a transcontinental country in northeast Africa, with the Sinai Peninsula in Asia, bordered by the Mediterranean and Red Seas.",
+    "clue2": "Its ancient civilization along the Nile produced pharaohs such as Tutankhamun and Ramses II.",
+    "clue3": "The Great Sphinx and the Great Pyramid at Giza are among its most famous landmarks.",
+    "difficulty": "easy"
+  },
+  {
+    "country": "Nigeria",
+    "clue1": "It is a coastal country in West Africa on the Gulf of Guinea, bordered by Benin to the west and Cameroon to the east.",
+    "clue2": "It is the most populous country in Africa and a major oil producer, with Lagos as its largest city.",
+    "clue3": "Its film industry, nicknamed Nollywood, is one of the largest in the world by number of films produced.",
+    "difficulty": "medium"
+  },
+  {
+    "country": "South Africa",
+    "clue1": "It sits at the southern tip of the continent and completely surrounds the small kingdom of Lesotho.",
+    "clue2": "It ended a system of racial segregation called apartheid and elected Nelson Mandela as president in 1994.",
+    "clue3": "It has three capital cities and is home to Table Mountain and Kruger National Park.",
+    "difficulty": "easy"
+  },
+  {
+    "country": "Kenya",
+    "clue1": "It is an East African country straddling the equator, with an Indian Ocean coastline and a share of Lake Victoria.",
+    "clue2": "It is famed for long-distance runners such as Eliud Kipchoge, who ran a marathon in under two hours in 2019 in a specially arranged event.",
+    "clue3": "Each year, wildebeest herds cross the Mara River into its Maasai Mara reserve during the Great Migration.",
+    "difficulty": "easy"
+  },
+  {
+    "country": "Ethiopia",
+    "clue1": "It is a landlocked country in the Horn of Africa, bordering Eritrea, Djibouti, Somalia and Kenya.",
+    "clue2": "It defeated an Italian invasion at the Battle of Adwa in 1896, preserving its independence during the Scramble for Africa.",
+    "clue3": "It is widely believed to be the birthplace of coffee and is home to the rock-hewn churches of Lalibela.",
+    "difficulty": "medium"
+  },
+  {
+    "country": "Morocco",
+    "clue1": "It is a North African kingdom with coastlines on both the Atlantic Ocean and the Mediterranean Sea, just across the Strait of Gibraltar from Spain.",
+    "clue2": "The University of al-Qarawiyyin in Fez, founded in 859, is often called the oldest continuously operating university in the world.",
+    "clue3": "The blue-washed streets of Chefchaouen and the bustling Jemaa el-Fnaa square in Marrakech are among its iconic sights.",
+    "difficulty": "medium"
+  },
+  {
+    "country": "Algeria",
+    "clue1": "It is the largest country in Africa by area, with a long Mediterranean coastline and much of the Sahara Desert inside its borders.",
+    "clue2": "It won independence from France in 1962 after a war of about eight years.",
+    "clue3": "The Tassili n'Ajjer plateau in its Sahara holds thousands of prehistoric rock paintings and engravings.",
+    "difficulty": "medium"
+  },
+  {
+    "country": "Tunisia",
+    "clue1": "It is the northernmost country in Africa, with a Mediterranean coastline and borders with Algeria and Libya.",
+    "clue2": "Its ancient city of Carthage was a Phoenician power that fought Rome in the Punic Wars.",
+    "clue3": "A town in its south, Tataouine, lent its name to Luke Skywalker's home planet in Star Wars, and scenes were filmed nearby.",
+    "difficulty": "medium"
+  },
+  {
+    "country": "Ghana",
+    "clue1": "It is a West African country on the Gulf of Guinea, bordered by Cote d'Ivoire, Burkina Faso and Togo.",
+    "clue2": "In 1957 it became the first Sub-Saharan African country to gain independence from European colonial rule, led by Kwame Nkrumah.",
+    "clue3": "It is known for colorful kente cloth and is home to Lake Volta, one of the world's largest reservoirs by surface area.",
+    "difficulty": "medium"
+  },
+  {
+    "country": "Tanzania",
+    "clue1": "It is an East African country with an Indian Ocean coastline, sharing Lake Victoria, Lake Tanganyika and Lake Malawi with its neighbors.",
+    "clue2": "It was formed in 1964 through the union of Tanganyika and Zanzibar.",
+    "clue3": "It is home to Africa's highest peak, Mount Kilimanjaro, and the vast Serengeti plains.",
+    "difficulty": "medium"
+  },
+  {
+    "country": "Uganda",
+    "clue1": "It is a landlocked country in East Africa that borders Kenya, South Sudan, the Democratic Republic of the Congo, Rwanda and Tanzania.",
+    "clue2": "Its Bwindi Impenetrable Forest shelters roughly half of the world's remaining mountain gorillas.",
+    "clue3": "Jinja, on the shore of Lake Victoria, is known as a source of the Nile.",
+    "difficulty": "hard"
+  },
+  {
+    "country": "Rwanda",
+    "clue1": "It is a small, hilly landlocked country in East-Central Africa, bordered by Uganda, Tanzania, Burundi and the Democratic Republic of the Congo.",
+    "clue2": "It holds a nationwide monthly community work day called Umuganda and has banned non-biodegradable plastic bags since 2008.",
+    "clue3": "It is known as the 'Land of a Thousand Hills' and shelters mountain gorillas in Volcanoes National Park.",
+    "difficulty": "hard"
+  },
+  {
+    "country": "Madagascar",
+    "clue1": "It is a large island nation in the Indian Ocean off the southeast coast of Africa, separated from the mainland by the Mozambique Channel.",
+    "clue2": "Roughly 90 percent of its wildlife is found nowhere else on Earth, including more than 100 species of lemur.",
+    "clue3": "Its Avenue of the Baobabs and the jagged stone forests of the Tsingy are iconic natural landmarks.",
+    "difficulty": "medium"
+  },
+  {
+    "country": "Senegal",
+    "clue1": "It occupies the westernmost tip of mainland Africa, on the Atlantic coast, and nearly surrounds The Gambia.",
+    "clue2": "Its capital, Dakar, lent its name to the famous off-road rally that for years finished there after starting in Paris.",
+    "clue3": "Lake Retba, also called Lac Rose, has pink waters thanks to salt-loving algae.",
+    "difficulty": "hard"
+  },
+  {
+    "country": "Libya",
+    "clue1": "It is a North African country with a long Mediterranean coastline, bordered by Egypt, Sudan, Chad, Niger, Algeria and Tunisia.",
+    "clue2": "Its ruler Muammar Gaddafi held power for 42 years until the 2011 uprising.",
+    "clue3": "The ancient Roman ruins of Leptis Magna, a UNESCO World Heritage site, stand on its Mediterranean coast.",
+    "difficulty": "hard"
+  },
+  {
+    "country": "Sudan",
+    "clue1": "It is a large northeast African country with a Red Sea coastline, bordering Egypt, Ethiopia, Eritrea and Chad.",
+    "clue2": "The ancient Kingdom of Kush, based here, ruled Egypt as the 25th Dynasty and built more than 200 pyramids.",
+    "clue3": "Its capital sits where the Blue Nile and the White Nile join to form the main Nile.",
+    "difficulty": "hard"
+  },
+  {
+    "country": "Namibia",
+    "clue1": "It is a sparsely populated country on the Atlantic coast of southwestern Africa, bordered by Angola, Zambia, Botswana and South Africa.",
+    "clue2": "It gained independence from South African rule in 1990 after a long struggle.",
+    "clue3": "Its Skeleton Coast, the towering red dunes of Sossusvlei and the dead trees of Deadvlei are iconic desert scenes.",
+    "difficulty": "hard"
+  },
+  {
+    "country": "Botswana",
+    "clue1": "It is a landlocked country in southern Africa bordered by Namibia, Zambia, Zimbabwe and South Africa.",
+    "clue2": "It is one of the world's leading diamond producers and is often cited as one of Africa's most stable democracies.",
+    "clue3": "The Okavango Delta, an inland delta that floods each year, is a wildlife haven here.",
+    "difficulty": "hard"
+  },
+  {
+    "country": "Zimbabwe",
+    "clue1": "It is a landlocked country in southern Africa, located between the Zambezi and Limpopo rivers.",
+    "clue2": "The medieval stone ruins of a trading city, a UNESCO site, gave the modern country its name.",
+    "clue3": "It shares the thundering Victoria Falls, known locally as Mosi-oa-Tunya, with its northern neighbor Zambia.",
+    "difficulty": "medium"
+  },
+  {
+    "country": "Zambia",
+    "clue1": "It is a landlocked country in southern Africa, north of the Zambezi River, bordering Tanzania, Malawi, Zimbabwe and Angola.",
+    "clue2": "Its Copperbelt region makes copper the country's leading export.",
+    "clue3": "On the side of Victoria Falls near Livingstone, visitors can swim in 'Devil's Pool', a natural rock pool at the edge of the drop.",
+    "difficulty": "hard"
+  },
+  {
+    "country": "Mali",
+    "clue1": "It is a large landlocked country in West Africa, stretching from the Sahara in the north to the Niger River basin in the south.",
+    "clue2": "Its medieval emperor Mansa Musa, who made a famous pilgrimage to Mecca in 1324, is often described as one of the richest people in history.",
+    "clue3": "The Great Mosque of Djenne is often called the largest mud-brick building in the world, and the fabled city of Timbuktu lies here.",
+    "difficulty": "hard"
+  },
+  {
+    "country": "Niger",
+    "clue1": "It is a landlocked country in West Africa, roughly four-fifths covered by the Sahara, with Chad to the east and Algeria and Libya to the north.",
+    "clue2": "It is one of the world's significant sources of uranium.",
+    "clue3": "Its Tenere desert once held a lone acacia thought to be the most isolated tree on Earth, until a truck knocked it down in 1973.",
+    "difficulty": "extreme"
+  },
+  {
+    "country": "Chad",
+    "clue1": "It is a landlocked country in north-central Africa, bordered by Libya, Sudan, Niger and Cameroon.",
+    "clue2": "A large shallow lake shared with Cameroon, Niger and Nigeria, which gave the country its name, has shrunk by roughly 90 percent since the 1960s.",
+    "clue3": "The Ennedi Plateau, with its sandstone arches and rock art, and the Ounianga lakes in the Sahara are UNESCO-listed.",
+    "difficulty": "extreme"
+  },
+  {
+    "country": "Democratic Republic of the Congo",
+    "clue1": "It is the largest country in Sub-Saharan Africa, with a very short Atlantic coastline and territory straddling the equator.",
+    "clue2": "Africa's second-longest river flows through it, and its forests form the second-largest continuous tropical rainforest in the world.",
+    "clue3": "It is the only country where wild bonobos live, and its Virunga National Park shelters mountain gorillas.",
+    "difficulty": "hard"
+  },
+  {
+    "country": "Angola",
+    "clue1": "It is a country on the southwest Atlantic coast of Africa, bordered by Namibia, Zambia and the Democratic Republic of the Congo, and includes the exclave of Cabinda.",
+    "clue2": "It won independence from Portugal in 1975 and then endured a civil war that lasted until 2002.",
+    "clue3": "Its Kalandula Falls rank among the largest waterfalls in Africa by volume.",
+    "difficulty": "extreme"
+  },
+  {
+    "country": "Mozambique",
+    "clue1": "It is a country on Africa's southeast coast with a long Indian Ocean shoreline, bordered by Tanzania, Malawi, Zambia, Zimbabwe, Eswatini and South Africa.",
+    "clue2": "It is one of the few African countries with Portuguese as its official language, having gained independence from Portugal in 1975.",
+    "clue3": "The Bazaruto Archipelago, with its islands, dunes, coral reefs and dugongs, is a marine national park here.",
+    "difficulty": "extreme"
+  },
+  {
+    "country": "Cameroon",
+    "clue1": "It is a country on the Gulf of Guinea where West and Central Africa meet, bordered by Nigeria, Chad and Gabon among others.",
+    "clue2": "Its national football team, the Indomitable Lions, became the first African side to reach a World Cup quarterfinal, in 1990.",
+    "clue3": "Its varied landscapes, from beaches to rainforest to savanna, earn it the nickname 'Africa in miniature'.",
+    "difficulty": "hard"
+  },
+  {
+    "country": "Eritrea",
+    "clue1": "It is a country in the Horn of Africa with a long Red Sea coastline, bordered by Sudan, Ethiopia and Djibouti.",
+    "clue2": "It gained formal independence from Ethiopia in 1993 after a referendum, following a decades-long war.",
+    "clue3": "Its capital's Art Deco and modernist Italian colonial buildings earned UNESCO World Heritage status in 2017.",
+    "difficulty": "extreme"
+  },
+  {
+    "country": "Djibouti",
+    "clue1": "It is a small country in the Horn of Africa on the Gulf of Aden, at the southern entrance to the Red Sea.",
+    "clue2": "Its strategic location hosts military bases of several foreign countries, including the United States, France, China and Japan.",
+    "clue3": "Lake Assal in its interior is one of the saltiest lakes in the world and the lowest point in Africa.",
+    "difficulty": "extreme"
+  },
+  {
+    "country": "Lesotho",
+    "clue1": "It is a small landlocked kingdom entirely surrounded by a single neighbor, South Africa.",
+    "clue2": "It is known as the 'Kingdom in the Sky' because its entire territory lies above 1,000 meters in elevation.",
+    "clue3": "Its national flag features a traditional conical straw hat.",
+    "difficulty": "extreme"
+  },
+  {
+    "country": "Eswatini",
+    "clue1": "It is a small landlocked kingdom in southern Africa, bordered by South Africa and Mozambique.",
+    "clue2": "It is one of the world's last absolute monarchies, ruled by King Mswati III.",
+    "clue3": "Each year thousands of young women take part in the Umhlanga Reed Dance festival.",
+    "difficulty": "extreme"
+  },
+  {
+    "country": "Seychelles",
+    "clue1": "It is an archipelago of about 115 islands in the western Indian Ocean, northeast of Madagascar.",
+    "clue2": "Its Vallee de Mai is home to the coco de mer, a palm that produces the world's largest seed.",
+    "clue3": "Granite boulders and the pink-tinged sands of Anse Source d'Argent on La Digue are iconic sights.",
+    "difficulty": "extreme"
+  },
+  {
+    "country": "Mauritius",
+    "clue1": "It is an island nation in the Indian Ocean, east of Madagascar and near Reunion.",
+    "clue2": "It was the only known home of the dodo, a flightless bird driven to extinction in the 17th century.",
+    "clue3": "An underwater 'waterfall' illusion off Le Morne Brabant and the Seven Coloured Earths of Chamarel are famous sights.",
+    "difficulty": "hard"
+  },
+  {
+    "country": "Malawi",
+    "clue1": "It is a narrow landlocked country in southeast Africa, bordered by Zambia, Tanzania and Mozambique.",
+    "clue2": "A vast lake, home to hundreds of species of cichlid fish, runs along much of its eastern border.",
+    "clue3": "It is nicknamed the 'Warm Heart of Africa'.",
+    "difficulty": "hard"
+  },
+  {
+    "country": "China",
+    "clue1": "It spans East Asia and shares land borders with 14 countries, including India, Russia, Mongolia and Vietnam.",
+    "clue2": "It invented paper, printing, gunpowder and the compass, known as the Four Great Inventions.",
+    "clue3": "The Great Wall and the Terracotta Army near Xi'an are among its famous landmarks, and giant pandas are its national symbol.",
+    "difficulty": "easy"
+  },
+  {
+    "country": "India",
+    "clue1": "It is the largest country in South Asia, bordered by Pakistan, China, Nepal, Bhutan, Bangladesh and Myanmar.",
+    "clue2": "It is the world's most populous country and the birthplace of Hinduism, Buddhism, Jainism and Sikhism.",
+    "clue3": "The Taj Mahal, built by the Mughal emperor Shah Jahan, is its most iconic monument, and Diwali, the festival of lights, is widely celebrated.",
+    "difficulty": "easy"
+  },
+  {
+    "country": "Japan",
+    "clue1": "It is an island nation in East Asia in the Pacific Ocean, made up of four main islands: Honshu, Hokkaido, Kyushu and Shikoku.",
+    "clue2": "It opened the world's first high-speed rail network, the Shinkansen bullet train, in 1964.",
+    "clue3": "Mount Fuji, cherry blossoms and sushi are among its most recognizable symbols.",
+    "difficulty": "easy"
+  },
+  {
+    "country": "South Korea",
+    "clue1": "It occupies the southern half of a peninsula in East Asia, bordered by the Yellow Sea and the Sea of Japan.",
+    "clue2": "Its cultural exports, including K-pop and the film Parasite, which won the Best Picture Oscar in 2020, have gained worldwide popularity.",
+    "clue3": "It is famous for the fermented cabbage dish kimchi, and its alphabet Hangul was created in the 15th century under King Sejong.",
+    "difficulty": "medium"
+  },
+  {
+    "country": "North Korea",
+    "clue1": "It occupies the northern half of an East Asian peninsula and borders China and Russia.",
+    "clue2": "It has been ruled by three generations of the Kim family since 1948.",
+    "clue3": "A heavily fortified Demilitarized Zone, with the truce village of Panmunjom, divides it from its southern neighbor.",
+    "difficulty": "medium"
+  },
+  {
+    "country": "Mongolia",
+    "clue1": "It is a landlocked country in East Asia sandwiched between Russia and China.",
+    "clue2": "It was the heart of an empire founded by Genghis Khan in 1206 that became the largest contiguous land empire in history.",
+    "clue3": "Many of its people live as nomads in round felt tents called gers, and the annual Naadam festival features wrestling, archery and horse racing.",
+    "difficulty": "medium"
+  },
+  {
+    "country": "Nepal",
+    "clue1": "It is a landlocked country in South Asia, in the Himalayas between China and India.",
+    "clue2": "It is home to eight of the world's ten highest mountains, including Mount Everest on its border.",
+    "clue3": "Its flag is the only national flag in the world that is not rectangular.",
+    "difficulty": "medium"
+  },
+  {
+    "country": "Bhutan",
+    "clue1": "It is a small landlocked Himalayan kingdom in South Asia, between China and India.",
+    "clue2": "It measures national progress using 'Gross National Happiness' rather than only GDP.",
+    "clue3": "The Tiger's Nest monastery, Paro Taktsang, clings to a cliff high above a valley here.",
+    "difficulty": "hard"
+  },
+  {
+    "country": "Bangladesh",
+    "clue1": "It is a low-lying country in South Asia on the Bay of Bengal, almost entirely surrounded by India, with a short border with Myanmar.",
+    "clue2": "It gained independence in 1971 after a war of liberation from Pakistan.",
+    "clue3": "It shares the Sundarbans, the world's largest mangrove forest, with India, and the forest is a home of the Royal Bengal tiger.",
+    "difficulty": "medium"
+  },
+  {
+    "country": "Sri Lanka",
+    "clue1": "It is a teardrop-shaped island nation in the Indian Ocean, just off the southern tip of India.",
+    "clue2": "It is one of the world's largest exporters of tea, grown on hill-country plantations.",
+    "clue3": "The rock fortress of Sigiriya and the Temple of the Tooth in Kandy, said to house a tooth relic of the Buddha, are famous sites.",
+    "difficulty": "medium"
+  },
+  {
+    "country": "Pakistan",
+    "clue1": "It is a country in South Asia bordering India, Afghanistan, Iran and China, with a coast on the Arabian Sea.",
+    "clue2": "The ruins of the ancient Indus Valley Civilization city of Mohenjo-daro lie within its borders.",
+    "clue3": "It is home to K2, the second-highest mountain in the world.",
+    "difficulty": "medium"
+  },
+  {
+    "country": "Afghanistan",
+    "clue1": "It is a landlocked, mountainous country in Central and South Asia, bordered by Pakistan, Iran, Turkmenistan, Uzbekistan, Tajikistan and China.",
+    "clue2": "It has earned the nickname 'Graveyard of Empires' for wearing down invading powers, including Britain and the Soviet Union.",
+    "clue3": "The Bamiyan valley once held giant Buddha statues carved into a cliff, which were destroyed in 2001.",
+    "difficulty": "medium"
+  },
+  {
+    "country": "Iran",
+    "clue1": "It is a large country in Southwest Asia with coasts on the Caspian Sea and the Persian Gulf.",
+    "clue2": "It was the center of the ancient Persian Empire, founded by Cyrus the Great.",
+    "clue3": "The ruins of Persepolis and the celebration of Nowruz, the Persian New Year, are iconic.",
+    "difficulty": "medium"
+  },
+  {
+    "country": "Iraq",
+    "clue1": "It is a Middle Eastern country watered by the Tigris and Euphrates rivers, with a short coast on the Persian Gulf.",
+    "clue2": "Ancient Mesopotamia, where cuneiform writing and the first cities such as Ur arose, lay within its borders.",
+    "clue3": "The Hanging Gardens, one of the Seven Wonders of the Ancient World, were said to have been in its ancient city of Babylon.",
+    "difficulty": "medium"
+  },
+  {
+    "country": "Saudi Arabia",
+    "clue1": "It occupies most of a large desert peninsula in Southwest Asia, with coasts on the Red Sea and the Persian Gulf.",
+    "clue2": "It is the birthplace of Islam and home to its two holiest cities, Mecca and Medina.",
+    "clue3": "It holds some of the world's largest oil reserves, and the Empty Quarter, the largest continuous sand desert on Earth, covers its south.",
+    "difficulty": "easy"
+  },
+  {
+    "country": "Turkey",
+    "clue1": "It straddles two continents, with territory in both Europe and Asia separated by the Bosphorus strait.",
+    "clue2": "The Ottoman Empire, which conquered Constantinople in 1453, was based here, and that city is now called Istanbul.",
+    "clue3": "Cappadocia's fairy chimneys and hot-air balloons, and the white terraces of Pamukkale, are iconic landscapes.",
+    "difficulty": "easy"
+  },
+  {
+    "country": "Israel",
+    "clue1": "It lies on the eastern Mediterranean coast in the Middle East, bordered by Lebanon, Syria, Jordan and Egypt.",
+    "clue2": "Founded as a modern state in 1948, it contains Jerusalem, whose holy sites are sacred to Judaism, Christianity and Islam.",
+    "clue3": "It borders the Dead Sea, whose shore is the lowest point on land on Earth.",
+    "difficulty": "medium"
+  },
+  {
+    "country": "Jordan",
+    "clue1": "It is a kingdom in the Middle East bordered by Syria, Iraq, Saudi Arabia and Israel, with a short Red Sea coastline at Aqaba.",
+    "clue2": "It is home to the rose-red ancient Nabataean city of Petra, carved into sandstone cliffs.",
+    "clue3": "The red desert landscape of Wadi Rum, nicknamed the Valley of the Moon, has appeared in films such as Lawrence of Arabia and The Martian.",
+    "difficulty": "medium"
+  },
+  {
+    "country": "Lebanon",
+    "clue1": "It is a small country on the eastern shore of the Mediterranean, between Syria and Israel.",
+    "clue2": "Its ancient Phoenician cities, such as Byblos and Tyre, helped spread an early alphabet across the Mediterranean.",
+    "clue3": "A cedar tree is the emblem on its flag, and its Roman temples at Baalbek are UNESCO-listed.",
+    "difficulty": "hard"
+  },
+  {
+    "country": "Yemen",
+    "clue1": "It is a country at the southwestern tip of the Arabian Peninsula, with coasts on the Red Sea and the Gulf of Aden, bordered by Saudi Arabia and Oman.",
+    "clue2": "The ancient walled city of Shibam, known as the 'Manhattan of the Desert', has mud-brick skyscrapers.",
+    "clue3": "The remote island of Socotra, with its otherworldly dragon blood trees, belongs to it.",
+    "difficulty": "extreme"
+  },
+  {
+    "country": "Oman",
+    "clue1": "It is a country on the southeastern coast of the Arabian Peninsula, with a long coastline on the Arabian Sea, bordering Yemen, Saudi Arabia and the United Arab Emirates.",
+    "clue2": "It was long a seafaring trading power whose sultans once ruled Zanzibar.",
+    "clue3": "It is famed for frankincense from the Dhofar region and for the towering Sultan Qaboos Grand Mosque in Muscat.",
+    "difficulty": "hard"
+  },
+  {
+    "country": "United Arab Emirates",
+    "clue1": "It is a federation of seven sheikhdoms on the southeastern Arabian Peninsula, on the Persian Gulf, bordered by Saudi Arabia and Oman.",
+    "clue2": "Its economy grew from oil and trade, and Abu Dhabi and Dubai are its leading cities.",
+    "clue3": "Dubai's Burj Khalifa, at 828 meters, is the tallest building in the world.",
+    "difficulty": "medium"
+  },
+  {
+    "country": "Qatar",
+    "clue1": "It is a small peninsula country jutting into the Persian Gulf, sharing its only land border with Saudi Arabia.",
+    "clue2": "It hosted the 2022 FIFA World Cup, the first held in the Middle East.",
+    "clue3": "It is one of the world's largest exporters of liquefied natural gas, and its capital, Doha, is home to the Al Jazeera network.",
+    "difficulty": "hard"
+  },
+  {
+    "country": "Kazakhstan",
+    "clue1": "It is the world's largest landlocked country, stretching from the Caspian Sea to the Altai Mountains in Central Asia.",
+    "clue2": "It hosts the Baikonur Cosmodrome, the world's first and largest space launch facility, where Yuri Gagarin was launched in 1961.",
+    "clue3": "Its capital's Bayterek Tower and the tent-shaped Khan Shatyr shopping center are futuristic landmarks.",
+    "difficulty": "medium"
+  },
+  {
+    "country": "Uzbekistan",
+    "clue1": "It is one of only two doubly landlocked countries in the world, in Central Asia.",
+    "clue2": "Its Silk Road cities of Samarkand, Bukhara and Khiva are renowned for their blue-tiled Islamic architecture.",
+    "clue3": "It borders the Aral Sea, once the world's fourth-largest lake, which has shrunk dramatically and is shared with Kazakhstan.",
+    "difficulty": "hard"
+  },
+  {
+    "country": "Kyrgyzstan",
+    "clue1": "It is a mountainous, landlocked country in Central Asia, bordered by Kazakhstan, Uzbekistan, Tajikistan and China.",
+    "clue2": "Its nomadic heritage is celebrated in the World Nomad Games and in the epic poem Manas.",
+    "clue3": "Issyk-Kul, a huge saline mountain lake whose name means 'warm lake', rarely freezes in winter.",
+    "difficulty": "extreme"
+  },
+  {
+    "country": "Tajikistan",
+    "clue1": "It is a mountainous landlocked country in Central Asia, bordered by Afghanistan, Uzbekistan, Kyrgyzstan and China.",
+    "clue2": "More than 90 percent of its territory is mountainous, including much of the Pamir range, sometimes called the 'Roof of the World'.",
+    "clue3": "Fedchenko Glacier, the longest glacier outside the polar regions, is located here.",
+    "difficulty": "extreme"
+  },
+  {
+    "country": "Turkmenistan",
+    "clue1": "It is a Central Asian country on the eastern shore of the Caspian Sea, bordered by Kazakhstan, Uzbekistan, Afghanistan and Iran.",
+    "clue2": "About 70 percent of its land is covered by the Karakum Desert.",
+    "clue3": "The Darvaza gas crater, nicknamed the 'Door to Hell', has been burning in the desert for decades.",
+    "difficulty": "extreme"
+  },
+  {
+    "country": "Thailand",
+    "clue1": "It is a country in mainland Southeast Asia bordered by Myanmar, Laos, Cambodia and Malaysia, with coastlines on the Andaman Sea and the South China Sea.",
+    "clue2": "It is the only Southeast Asian nation never colonized by a European power.",
+    "clue3": "It is famed for golden Buddhist temples such as Wat Arun, floating markets, elephants and spicy dishes like tom yum soup and green curry.",
+    "difficulty": "easy"
+  },
+  {
+    "country": "Vietnam",
+    "clue1": "It is an S-shaped country in Southeast Asia along the South China Sea, bordered by China, Laos and Cambodia.",
+    "clue2": "It fought a long war against the United States that ended in 1975 with the fall of Saigon.",
+    "clue3": "The limestone islands of Ha Long Bay and dishes such as pho and banh mi are iconic.",
+    "difficulty": "medium"
+  },
+  {
+    "country": "Laos",
+    "clue1": "It is the only landlocked country in mainland Southeast Asia, bordered by China, Vietnam, Cambodia, Thailand and Myanmar.",
+    "clue2": "Its former royal capital, Luang Prabang, is a UNESCO World Heritage town known for saffron-robed monks receiving alms at dawn.",
+    "clue3": "The Plain of Jars, with thousands of mysterious ancient stone jars, is a UNESCO World Heritage site here.",
+    "difficulty": "hard"
+  },
+  {
+    "country": "Cambodia",
+    "clue1": "It is a Southeast Asian country on the Gulf of Thailand, bordered by Thailand, Laos and Vietnam.",
+    "clue2": "It was the center of the Khmer Empire, which flourished from the 9th to the 15th century.",
+    "clue3": "Angkor Wat, the world's largest religious monument, appears on its national flag.",
+    "difficulty": "medium"
+  },
+  {
+    "country": "Myanmar",
+    "clue1": "It is the largest country in mainland Southeast Asia, bordered by Bangladesh, India, China, Laos and Thailand, with a long coastline on the Bay of Bengal and the Andaman Sea.",
+    "clue2": "Its ancient capital, Bagan, has thousands of Buddhist temples and pagodas scattered across a dry plain.",
+    "clue3": "The gold-covered Shwedagon Pagoda glitters above its largest city, Yangon.",
+    "difficulty": "hard"
+  },
+  {
+    "country": "Malaysia",
+    "clue1": "It is split between a peninsula in Southeast Asia and part of the island of Borneo, separated by the South China Sea.",
+    "clue2": "Its Petronas Twin Towers were the tallest buildings in the world from 1998 to 2004.",
+    "clue3": "Its rainforests shelter orangutans, and the Rafflesia, the world's largest single flower, grows on Borneo.",
+    "difficulty": "medium"
+  },
+  {
+    "country": "Singapore",
+    "clue1": "It is a tiny island city-state at the southern tip of the Malay Peninsula, just off the coast of Malaysia.",
+    "clue2": "It became independent in 1965 after separating from Malaysia and grew into one of the world's busiest ports.",
+    "clue3": "Its Marina Bay Sands hotel, with a rooftop infinity pool, and the 'Supertrees' of Gardens by the Bay are iconic.",
+    "difficulty": "medium"
+  },
+  {
+    "country": "Indonesia",
+    "clue1": "It is the world's largest archipelagic country, spanning more than 17,000 islands across the equator between Asia and Australia.",
+    "clue2": "It has the largest Muslim population of any country in the world.",
+    "clue3": "The Komodo dragon, the world's largest living lizard, roams its islands, and the Buddhist temple of Borobudur stands on Java.",
+    "difficulty": "medium"
+  },
+  {
+    "country": "Philippines",
+    "clue1": "It is an archipelago of more than 7,000 islands in Southeast Asia between the South China Sea and the Pacific Ocean.",
+    "clue2": "It was a Spanish colony for more than 300 years and is a predominantly Catholic country.",
+    "clue3": "The Chocolate Hills of Bohol, the Banaue Rice Terraces and the tiny tarsier are famous.",
+    "difficulty": "medium"
+  },
+  {
+    "country": "Maldives",
+    "clue1": "It is an island nation of coral atolls in the Indian Ocean, southwest of Sri Lanka and India.",
+    "clue2": "It is the lowest-lying country in the world, with an average natural ground level about 1.5 meters above sea level, making it vulnerable to rising seas.",
+    "clue3": "It is famous for luxury resorts on private islands and for overwater bungalows.",
+    "difficulty": "hard"
+  },
+  {
+    "country": "Georgia",
+    "clue1": "It is a country in the Caucasus at the crossroads of Europe and Asia, on the eastern Black Sea coast, bordered by Russia, Turkey, Armenia and Azerbaijan.",
+    "clue2": "It is considered one of the oldest wine-producing regions, with an 8,000-year tradition of fermenting wine in clay vessels called qvevri.",
+    "clue3": "It has a unique curvy alphabet unlike any other script, and its national dish is khachapuri, a cheese-filled bread often shaped like a boat.",
+    "difficulty": "hard"
+  },
+  {
+    "country": "Armenia",
+    "clue1": "It is a landlocked country in the South Caucasus, bordered by Georgia, Azerbaijan, Iran and Turkey.",
+    "clue2": "According to tradition, it became the first country to adopt Christianity as its state religion, in 301 AD.",
+    "clue3": "Mount Ararat, a national symbol, is visible from its capital, Yerevan, though the peak lies just across the border.",
+    "difficulty": "hard"
+  },
+  {
+    "country": "Azerbaijan",
+    "clue1": "It is a country in the South Caucasus on the western shore of the Caspian Sea, bordered by Russia, Georgia, Armenia and Iran.",
+    "clue2": "Its capital, Baku, was one of the world's earliest oil-drilling centers, and an oil boom shaped the late 19th century here.",
+    "clue3": "It is nicknamed the 'Land of Fire', and natural gas flames burn continuously on the hillside of Yanar Dag.",
+    "difficulty": "extreme"
+  },
+  {
+    "country": "Brunei",
+    "clue1": "It is a tiny sultanate on the northern coast of the island of Borneo, surrounded on land by Malaysia.",
+    "clue2": "It is one of the wealthiest countries in the world thanks to oil and natural gas, and is ruled by a sultan.",
+    "clue3": "Kampong Ayer, a centuries-old 'water village' of houses on stilts, lies on the river in its capital.",
+    "difficulty": "extreme"
+  },
+  {
+    "country": "France",
+    "clue1": "It is a Western European country with coasts on the Atlantic Ocean and the Mediterranean Sea, bordering Spain, Italy, Germany and Belgium.",
+    "clue2": "It was the site of the 1789 revolution that overthrew its monarchy.",
+    "clue3": "Its capital has the Eiffel Tower, and it is renowned for croissants, baguettes and cheese.",
+    "difficulty": "easy"
+  },
+  {
+    "country": "Germany",
+    "clue1": "It is a Central European country with coastlines on the North and Baltic Seas, bordered by nine neighbors including Poland, France and Austria.",
+    "clue2": "It was divided into East and West after World War II and reunified in 1990, following the fall of the Berlin Wall.",
+    "clue3": "It is famous for Oktoberfest in Munich and for stretches of autobahn with no general speed limit.",
+    "difficulty": "easy"
+  },
+  {
+    "country": "Italy",
+    "clue1": "It is a boot-shaped peninsula in Southern Europe extending into the Mediterranean, with Sicily and Sardinia as its largest islands.",
+    "clue2": "It was the heart of the Roman Empire and the birthplace of the Renaissance.",
+    "clue3": "The Colosseum, the Leaning Tower of Pisa, pizza and gelato are iconic.",
+    "difficulty": "easy"
+  },
+  {
+    "country": "Spain",
+    "clue1": "It occupies most of the Iberian Peninsula in southwestern Europe, bordering Portugal, France and Andorra.",
+    "clue2": "It is the birthplace of artists such as Picasso and Dali and of the classic novel Don Quixote.",
+    "clue3": "Gaudi's Sagrada Familia in Barcelona, flamenco, paella and the running of the bulls in Pamplona are iconic.",
+    "difficulty": "easy"
+  },
+  {
+    "country": "Portugal",
+    "clue1": "It is the westernmost country of mainland Europe, on the Iberian Peninsula, and its only land neighbor is Spain.",
+    "clue2": "Its explorers, including Vasco da Gama, pioneered sea routes to India during the Age of Discovery.",
+    "clue3": "It is known for pastel de nata custard tarts, mournful fado music and decorative blue tiles called azulejos.",
+    "difficulty": "medium"
+  },
+  {
+    "country": "United Kingdom",
+    "clue1": "It is an island nation off the northwest coast of continental Europe, made up of England, Scotland, Wales and Northern Ireland.",
+    "clue2": "It was the birthplace of the Industrial Revolution and once ruled the largest empire in history.",
+    "clue3": "Big Ben, Stonehenge and afternoon tea are among its icons.",
+    "difficulty": "easy"
+  },
+  {
+    "country": "Ireland",
+    "clue1": "It occupies about five-sixths of an island in the North Atlantic, to the west of Great Britain.",
+    "clue2": "A potato famine in the 1840s led to mass emigration, and it produced writers such as James Joyce, W. B. Yeats and Samuel Beckett.",
+    "clue3": "St Patrick's Day, shamrocks, Guinness stout and the Cliffs of Moher are iconic.",
+    "difficulty": "easy"
+  },
+  {
+    "country": "Iceland",
+    "clue1": "It is a volcanic island nation in the North Atlantic, just south of the Arctic Circle, between Greenland and Norway.",
+    "clue2": "Its parliament, the Althing, founded in 930, is one of the oldest in the world.",
+    "clue3": "Geysers, glaciers, the Northern Lights and the Blue Lagoon geothermal spa are iconic.",
+    "difficulty": "medium"
+  },
+  {
+    "country": "Norway",
+    "clue1": "It lies on the western side of the Scandinavian Peninsula, with a long coastline of deep fjords along the North Atlantic.",
+    "clue2": "It awards the Nobel Peace Prize in its capital, Oslo, and holds a huge sovereign wealth fund built on oil revenue.",
+    "clue3": "Vikings once sailed from its shores, and it is a top place to see the midnight sun and the aurora borealis.",
+    "difficulty": "easy"
+  },
+  {
+    "country": "Sweden",
+    "clue1": "It is a Scandinavian country in Northern Europe, bordered by Norway and Finland, with a long Baltic Sea coastline.",
+    "clue2": "Alfred Nobel, inventor of dynamite, was born here, and the Nobel Prize ceremony is held in its capital.",
+    "clue3": "IKEA furniture, the pop group ABBA and the tradition of 'fika' coffee breaks are iconic.",
+    "difficulty": "easy"
+  },
+  {
+    "country": "Finland",
+    "clue1": "It is a Nordic country in northern Europe, bordered by Sweden, Norway and Russia, with thousands of lakes.",
+    "clue2": "It has topped the World Happiness Report ranking for several years in a row.",
+    "clue3": "It is the home of the sauna, and Santa Claus Village at the Arctic Circle in Rovaniemi is a famous attraction.",
+    "difficulty": "medium"
+  },
+  {
+    "country": "Denmark",
+    "clue1": "It is a Scandinavian country made up of the Jutland peninsula and more than 400 islands, connected to Sweden by the Oresund Bridge.",
+    "clue2": "It is the home of LEGO and of the fairy-tale writer Hans Christian Andersen.",
+    "clue3": "Its capital's Little Mermaid statue and the cozy lifestyle concept of 'hygge' are famous, and its territory includes Greenland and the Faroe Islands.",
+    "difficulty": "medium"
+  },
+  {
+    "country": "Netherlands",
+    "clue1": "It is a low-lying country in Northwestern Europe on the North Sea, with much of its land below sea level, bordered by Germany and Belgium.",
+    "clue2": "It has a famous system of dikes and canals to keep out the sea, and Amsterdam's canal ring is UNESCO-listed.",
+    "clue3": "Tulips, windmills, wooden clogs and cycling are iconic.",
+    "difficulty": "easy"
+  },
+  {
+    "country": "Belgium",
+    "clue1": "It is a small Western European country bordered by France, Germany, Luxembourg and the Netherlands, with a short North Sea coast.",
+    "clue2": "Its capital hosts the headquarters of NATO and the main institutions of the European Union.",
+    "clue3": "Chocolate pralines, waffles, Trappist beers and the Manneken Pis statue are iconic.",
+    "difficulty": "medium"
+  },
+  {
+    "country": "Switzerland",
+    "clue1": "It is a landlocked country in the heart of Europe, bordered by Germany, France, Italy, Austria and Liechtenstein.",
+    "clue2": "It has a long tradition of political neutrality and hosts many international organizations in Geneva.",
+    "clue3": "Chocolate, cheese fondue, precision watches and the Matterhorn are iconic.",
+    "difficulty": "easy"
+  },
+  {
+    "country": "Austria",
+    "clue1": "It is a landlocked, mostly Alpine country in Central Europe, bordered by Germany, Italy and Hungary among others.",
+    "clue2": "Mozart was born in its city of Salzburg, and Vienna was the capital of the Habsburg Empire.",
+    "clue3": "It is the setting of The Sound of Music and is known for Vienna's waltz and Sachertorte.",
+    "difficulty": "medium"
+  },
+  {
+    "country": "Poland",
+    "clue1": "It is a Central European country on the Baltic Sea, bordered by Germany, Czechia, Slovakia, Ukraine, Belarus, Lithuania and Russia's Kaliningrad exclave.",
+    "clue2": "Marie Curie, a two-time Nobel laureate, and Nicolaus Copernicus, who proposed the heliocentric model, were born here.",
+    "clue3": "The Wieliczka Salt Mine near Krakow, with underground chapels carved from salt, is a UNESCO site.",
+    "difficulty": "medium"
+  },
+  {
+    "country": "Czech Republic",
+    "clue1": "It is a landlocked country in Central Europe, bordered by Germany, Poland, Slovakia and Austria.",
+    "clue2": "It separated peacefully from Slovakia in 1993 in the 'Velvet Divorce', after the 1989 Velvet Revolution.",
+    "clue3": "Its capital, Prague, has a famous Astronomical Clock, and Pilsner beer originated in the city of Plzen.",
+    "difficulty": "medium"
+  },
+  {
+    "country": "Hungary",
+    "clue1": "It is a landlocked country in Central Europe, centered on the Carpathian Basin, with the Danube flowing through its capital.",
+    "clue2": "It is the birthplace of the Rubik's Cube, invented by Erno Rubik in 1974.",
+    "clue3": "Thermal baths such as Szechenyi in its capital and the spicy stew goulash are iconic, and Lake Balaton is the largest lake in Central Europe.",
+    "difficulty": "medium"
+  },
+  {
+    "country": "Greece",
+    "clue1": "It is a southeastern European country with thousands of islands in the Aegean and Ionian Seas, at the southern tip of the Balkan Peninsula.",
+    "clue2": "It is the birthplace of democracy in ancient Athens and of the Olympic Games.",
+    "clue3": "The Acropolis and Parthenon, whitewashed villages on Santorini, feta cheese and moussaka are iconic.",
+    "difficulty": "easy"
+  },
+  {
+    "country": "Romania",
+    "clue1": "It is a country in Southeastern Europe, curved around by the Carpathian Mountains, with a coast on the Black Sea and the Danube delta.",
+    "clue2": "Its Transylvania region is linked to Vlad the Impaler, a historical figure who partly inspired Bram Stoker's Dracula.",
+    "clue3": "Its Palace of the Parliament in the capital is one of the largest and heaviest buildings in the world.",
+    "difficulty": "medium"
+  },
+  {
+    "country": "Bulgaria",
+    "clue1": "It is a Balkan country in southeastern Europe with a Black Sea coast, bordered by Romania, Serbia, North Macedonia, Greece and Turkey.",
+    "clue2": "It considers itself the cradle of the Cyrillic alphabet, which was developed at its Preslav Literary School.",
+    "clue3": "Its Rose Valley produces a large share of the world's rose oil, and there a shake of the head traditionally signals 'yes'.",
+    "difficulty": "hard"
+  },
+  {
+    "country": "Croatia",
+    "clue1": "It is a Balkan country on the eastern Adriatic coast with more than a thousand islands, bordering Slovenia, Hungary, Serbia, Bosnia and Herzegovina and Montenegro.",
+    "clue2": "Its coastal city of Dubrovnik, called the Pearl of the Adriatic, is a UNESCO site featured in Game of Thrones.",
+    "clue3": "The necktie is said to have originated with its 17th-century soldiers, and the turquoise cascades of Plitvice Lakes are iconic.",
+    "difficulty": "medium"
+  },
+  {
+    "country": "Serbia",
+    "clue1": "It is a landlocked country in the Balkans, where the Sava River meets the Danube at its capital, Belgrade.",
+    "clue2": "Novak Djokovic, one of the greatest tennis players ever, was born in its capital.",
+    "clue3": "It hosts the Guca Trumpet Festival and the Exit music festival at the Petrovaradin Fortress.",
+    "difficulty": "hard"
+  },
+  {
+    "country": "Ukraine",
+    "clue1": "It is a large Eastern European country on the northern coast of the Black Sea and the Sea of Azov, bordered by Russia, Belarus, Poland and Romania.",
+    "clue2": "It is known as the 'breadbasket of Europe' for its fertile black soil and huge wheat exports.",
+    "clue3": "The 1986 Chernobyl nuclear disaster occurred here, and Kyiv's golden-domed St Sophia Cathedral dates to the 11th century.",
+    "difficulty": "medium"
+  },
+  {
+    "country": "Russia",
+    "clue1": "It is the largest country in the world by area, spanning Eastern Europe and northern Asia across eleven time zones.",
+    "clue2": "Its Trans-Siberian Railway, the longest railway line in the world, links Moscow to Vladivostok.",
+    "clue3": "Matryoshka nesting dolls and the onion-domed St Basil's Cathedral in Red Square are iconic.",
+    "difficulty": "easy"
+  },
+  {
+    "country": "Belarus",
+    "clue1": "It is a landlocked Eastern European country bordered by Russia, Ukraine, Poland, Lithuania and Latvia.",
+    "clue2": "The Bialowieza forest, shared with Poland, is one of Europe's last primeval lowland forests and home to the European bison.",
+    "clue3": "The UNESCO-listed Mir Castle Complex, a fortress with Gothic and Renaissance elements, stands here.",
+    "difficulty": "hard"
+  },
+  {
+    "country": "Estonia",
+    "clue1": "It is the northernmost of the three Baltic states, on the Gulf of Finland, bordered by Latvia and Russia.",
+    "clue2": "It is a digital pioneer, an early adopter of online voting and e-residency and the birthplace of Skype.",
+    "clue3": "Its capital's medieval Old Town is a UNESCO site, and its 'Singing Revolution' helped it break free from the Soviet Union.",
+    "difficulty": "hard"
+  },
+  {
+    "country": "Latvia",
+    "clue1": "It is the middle Baltic state, bordered by Estonia, Lithuania, Russia and Belarus, with a coast on the Baltic Sea and the Gulf of Riga.",
+    "clue2": "Its capital has one of the world's greatest concentrations of Art Nouveau architecture.",
+    "clue3": "It holds a massive Song and Dance Festival roughly every five years, a tradition on UNESCO's intangible heritage list.",
+    "difficulty": "hard"
+  },
+  {
+    "country": "Lithuania",
+    "clue1": "It is the southernmost and largest Baltic state, bordered by Latvia, Belarus, Poland and Russia's Kaliningrad exclave.",
+    "clue2": "In 1990 it became the first Soviet republic to declare independence.",
+    "clue3": "The Hill of Crosses, covered with more than 100,000 crosses, is a pilgrimage site near the city of Siauliai.",
+    "difficulty": "hard"
+  },
+  {
+    "country": "Slovenia",
+    "clue1": "It is a small Alpine country bordering Italy, Austria, Hungary and Croatia, with a short Adriatic coastline.",
+    "clue2": "It gained independence from Yugoslavia in 1991 after a ten-day war.",
+    "clue3": "Lake Bled, with a small island church, and the vast Postojna Cave are iconic sights.",
+    "difficulty": "extreme"
+  },
+  {
+    "country": "Slovakia",
+    "clue1": "It is a landlocked Central European country bordered by Poland, Ukraine, Hungary, Austria and the Czech Republic.",
+    "clue2": "The High Tatras, the highest mountain range in the Carpathians, are within its borders.",
+    "clue3": "Spis Castle, one of the largest castle complexes in Central Europe, is a UNESCO site here.",
+    "difficulty": "extreme"
+  },
+  {
+    "country": "Albania",
+    "clue1": "It is a Balkan country on the Adriatic and Ionian Seas, bordered by Montenegro, Kosovo, North Macedonia and Greece.",
+    "clue2": "It was ruled by an isolationist communist regime under Enver Hoxha until the early 1990s and was left dotted with concrete bunkers.",
+    "clue3": "The UNESCO-listed city of Berat is nicknamed the 'city of a thousand windows'.",
+    "difficulty": "extreme"
+  },
+  {
+    "country": "Malta",
+    "clue1": "It is a tiny island nation in the central Mediterranean, south of Sicily and north of Libya.",
+    "clue2": "The Knights of St John, who withstood the Great Siege of 1565, once ruled the islands.",
+    "clue3": "Its capital, Valletta, is a UNESCO World Heritage city, and its Ggantija temples are among the oldest freestanding structures in the world.",
+    "difficulty": "hard"
+  },
+  {
+    "country": "Luxembourg",
+    "clue1": "It is a tiny landlocked country in Western Europe, bordered by Belgium, France and Germany.",
+    "clue2": "It is the world's only remaining sovereign grand duchy.",
+    "clue3": "It is home to European institutions such as the Court of Justice of the European Union and has one of the highest GDPs per capita in the world.",
+    "difficulty": "extreme"
+  },
+  {
+    "country": "Liechtenstein",
+    "clue1": "It is a tiny, doubly landlocked principality in the Alps between Switzerland and Austria.",
+    "clue2": "It is one of the smallest countries in the world, ruled by a prince whose family holds real political powers.",
+    "clue3": "Vaduz Castle overlooks the capital and is the residence of the prince.",
+    "difficulty": "extreme"
+  },
+  {
+    "country": "Monaco",
+    "clue1": "It is a tiny principality on the French Riviera, on the Mediterranean coast, surrounded on land by France.",
+    "clue2": "It hosts a prestigious Formula 1 Grand Prix on narrow city streets.",
+    "clue3": "It is the world's second-smallest sovereign state and is famous for the casino in Monte Carlo.",
+    "difficulty": "medium"
+  },
+  {
+    "country": "United States",
+    "clue1": "It occupies the central part of North America, stretching from the Atlantic to the Pacific, and also includes Alaska and Hawaii.",
+    "clue2": "It declared independence from Britain on July 4, 1776, and landed astronauts on the Moon in 1969.",
+    "clue3": "The Statue of Liberty, a gift from France, and the Grand Canyon are iconic.",
+    "difficulty": "easy"
+  },
+  {
+    "country": "Canada",
+    "clue1": "It is the second-largest country in the world by area, occupying the northern part of North America and bordering only one country by land.",
+    "clue2": "It has two official languages, English and French, and its capital is Ottawa.",
+    "clue3": "A maple leaf is on its flag, and it is famed for maple syrup, ice hockey and Niagara Falls, which it shares with its southern neighbor.",
+    "difficulty": "easy"
+  },
+  {
+    "country": "Mexico",
+    "clue1": "It is a country in southern North America, bordered by the United States to the north and Guatemala and Belize to the south, with coasts on the Pacific Ocean and the Caribbean Sea.",
+    "clue2": "The Aztec capital Tenochtitlan and the Maya pyramids of Chichen Itza were located within its territory.",
+    "clue3": "Day of the Dead celebrations, tacos, mariachi music and tequila are iconic.",
+    "difficulty": "easy"
+  },
+  {
+    "country": "Cuba",
+    "clue1": "It is the largest island in the Caribbean, lying just south of Florida.",
+    "clue2": "Its 1959 revolution, led by Fidel Castro and joined by Che Guevara, brought a communist government to power.",
+    "clue3": "Havana's streets are full of 1950s American cars, and the island is famed for hand-rolled cigars and salsa music.",
+    "difficulty": "easy"
+  },
+  {
+    "country": "Jamaica",
+    "clue1": "It is an island nation in the Caribbean Sea, south of Cuba.",
+    "clue2": "It produced Bob Marley and the reggae music genre, and the sprinter Usain Bolt.",
+    "clue3": "Blue Mountain coffee and jerk chicken are iconic, and the Rastafari movement began here.",
+    "difficulty": "medium"
+  },
+  {
+    "country": "Haiti",
+    "clue1": "It occupies the western third of the island of Hispaniola in the Caribbean, sharing it with the Dominican Republic.",
+    "clue2": "In 1804 it became the first independent Black-led republic, following a successful slave revolution led by Toussaint Louverture.",
+    "clue3": "The mountaintop Citadelle Laferriere, a massive fortress built after independence, is one of its landmarks.",
+    "difficulty": "hard"
+  },
+  {
+    "country": "Dominican Republic",
+    "clue1": "It occupies the eastern two-thirds of the island of Hispaniola in the Caribbean, bordering Haiti.",
+    "clue2": "Its capital, Santo Domingo, is the oldest continuously inhabited European settlement in the Americas.",
+    "clue3": "Merengue and bachata music and baseball are cultural passions, and the beaches of Punta Cana are iconic.",
+    "difficulty": "hard"
+  },
+  {
+    "country": "Costa Rica",
+    "clue1": "It is a narrow Central American country with coasts on both the Pacific Ocean and the Caribbean Sea, between Nicaragua and Panama.",
+    "clue2": "It abolished its army in 1948 and protects a large share of its land as national parks.",
+    "clue3": "The phrase 'pura vida', sloths and the cloud forests of Monteverde are iconic.",
+    "difficulty": "medium"
+  },
+  {
+    "country": "Panama",
+    "clue1": "It is the southernmost Central American country, linking North and South America, between Costa Rica and Colombia.",
+    "clue2": "Its canal, opened in 1914, connects the Atlantic and Pacific Oceans.",
+    "clue3": "Its Guna people, based in the San Blas islands, make colorful reverse-appliqué textiles called molas.",
+    "difficulty": "medium"
+  },
+  {
+    "country": "Guatemala",
+    "clue1": "It is a Central American country south of Mexico, with coasts on both the Pacific Ocean and the Caribbean Sea.",
+    "clue2": "The ancient Maya city of Tikal, with towering temple pyramids rising above the jungle, is a UNESCO site here.",
+    "clue3": "Lake Atitlan, ringed by volcanoes, is often called one of the most beautiful lakes in the world.",
+    "difficulty": "hard"
+  },
+  {
+    "country": "Honduras",
+    "clue1": "It is a Central American country with coasts on both the Caribbean Sea and the Pacific Ocean, bordering Guatemala, El Salvador and Nicaragua.",
+    "clue2": "The ancient Maya city of Copan, known for its Hieroglyphic Stairway, lies here.",
+    "clue3": "Its Bay Islands, including Roatan, sit beside the world's second-largest barrier reef system.",
+    "difficulty": "extreme"
+  },
+  {
+    "country": "Belize",
+    "clue1": "It is a small Central American country on the Caribbean coast, bordered by Mexico and Guatemala.",
+    "clue2": "It is the only country in Central America with English as its official language.",
+    "clue3": "The Great Blue Hole, a giant marine sinkhole, lies off its coast within the world's second-largest barrier reef system.",
+    "difficulty": "extreme"
+  },
+  {
+    "country": "Nicaragua",
+    "clue1": "It is the largest country in Central America, between Honduras and Costa Rica, with coasts on the Pacific Ocean and the Caribbean Sea.",
+    "clue2": "Its 1979 revolution overthrew the Somoza dynasty and brought the Sandinistas to power.",
+    "clue3": "The largest lake in Central America lies within it, and it contains Ometepe, an island formed by two volcanoes.",
+    "difficulty": "extreme"
+  },
+  {
+    "country": "Bahamas",
+    "clue1": "It is an archipelago of about 700 islands and thousands of cays in the Atlantic Ocean, east of Florida and north of Cuba.",
+    "clue2": "Christopher Columbus made his first landfall in the Americas in 1492 on one of its islands, traditionally identified as San Salvador.",
+    "clue3": "It is famous for swimming pigs on the beaches of the Exumas and the pink-sand beaches of Harbour Island.",
+    "difficulty": "extreme"
+  },
+  {
+    "country": "Barbados",
+    "clue1": "It is the easternmost island in the Caribbean, in the Lesser Antilles, east of the Windward Islands.",
+    "clue2": "It is the birthplace of the singer Rihanna and became a republic in 2021, removing the British monarch as head of state.",
+    "clue3": "It claims to be the birthplace of rum and is home to Mount Gay, one of the oldest rum brands in the world.",
+    "difficulty": "extreme"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "clue1": "It is a two-island Caribbean nation just off the northeastern coast of Venezuela, at the southern end of the Lesser Antilles.",
+    "clue2": "It is the birthplace of the steelpan, often called the only acoustic instrument invented in the 20th century.",
+    "clue3": "Its pre-Lenten Carnival, with calypso and soca music, is among the Caribbean's biggest festivals, and its Pitch Lake is the largest natural deposit of asphalt.",
+    "difficulty": "extreme"
+  },
+  {
+    "country": "Brazil",
+    "clue1": "It is the largest country in South America, sharing borders with every other country on the continent except Chile and Ecuador.",
+    "clue2": "It has won the FIFA World Cup five times, more than any other nation.",
+    "clue3": "Christ the Redeemer overlooks Rio de Janeiro, and the Amazon rainforest and Carnival are iconic.",
+    "difficulty": "easy"
+  },
+  {
+    "country": "Argentina",
+    "clue1": "It is the second-largest country in South America, stretching from the subtropics to Tierra del Fuego, with Chile along its western border.",
+    "clue2": "It is the homeland of football stars Diego Maradona and Lionel Messi and won the 2022 World Cup.",
+    "clue3": "Tango, gaucho cowboys, Patagonian glaciers and the Iguazu Falls, shared with Brazil, are iconic.",
+    "difficulty": "easy"
+  },
+  {
+    "country": "Chile",
+    "clue1": "It is a very long, narrow country running along the western edge of South America between the Andes and the Pacific Ocean.",
+    "clue2": "It is the world's largest producer of copper.",
+    "clue3": "Easter Island, with its giant moai statues, belongs to it, and its Atacama is the driest non-polar desert on Earth.",
+    "difficulty": "medium"
+  },
+  {
+    "country": "Peru",
+    "clue1": "It is a country on the Pacific coast of South America, with the Andes and part of the Amazon rainforest, bordered by Ecuador, Colombia, Brazil, Bolivia and Chile.",
+    "clue2": "It was the heart of the Inca Empire, whose capital was Cusco.",
+    "clue3": "Machu Picchu, the mountaintop citadel, and the giant Nazca Lines are iconic, as are llamas and alpacas.",
+    "difficulty": "easy"
+  },
+  {
+    "country": "Colombia",
+    "clue1": "It is the only South American country with coastlines on both the Pacific Ocean and the Caribbean Sea.",
+    "clue2": "Gabriel Garcia Marquez, author of One Hundred Years of Solitude, was born here.",
+    "clue3": "Its Cano Cristales, the 'river of five colors', is famous for its vivid aquatic plants.",
+    "difficulty": "medium"
+  },
+  {
+    "country": "Bolivia",
+    "clue1": "It is a landlocked country in west-central South America, bordered by Brazil, Paraguay, Argentina, Chile and Peru.",
+    "clue2": "It has two capital cities, La Paz and Sucre, and La Paz is the highest seat of government in the world.",
+    "clue3": "The Uyuni salt flat, the largest in the world, becomes a giant mirror in the rainy season.",
+    "difficulty": "hard"
+  },
+  {
+    "country": "Ecuador",
+    "clue1": "It is a small South American country on the Pacific coast, straddling the equator and bordered by Colombia and Peru.",
+    "clue2": "Its Galapagos Islands helped inspire Charles Darwin's theory of evolution by natural selection.",
+    "clue3": "It is one of the world's largest banana exporters, and its capital, Quito, lies at about 2,850 meters above sea level.",
+    "difficulty": "medium"
+  },
+  {
+    "country": "Venezuela",
+    "clue1": "It is a country on the northern coast of South America, bordered by Colombia, Brazil and Guyana, with a long Caribbean coastline.",
+    "clue2": "It has the world's largest proven oil reserves.",
+    "clue3": "Angel Falls, the world's tallest uninterrupted waterfall, drops from a flat-topped mountain in Canaima National Park.",
+    "difficulty": "medium"
+  },
+  {
+    "country": "Uruguay",
+    "clue1": "It is a small South American country on the Atlantic coast and the Rio de la Plata, squeezed between Argentina and Brazil.",
+    "clue2": "It hosted and won the first FIFA World Cup, in 1930.",
+    "clue3": "Drinking yerba mate is a national obsession, and 'La Mano', a giant sculpture of a hand emerging from the sand, stands at Punta del Este.",
+    "difficulty": "hard"
+  },
+  {
+    "country": "Paraguay",
+    "clue1": "It is a landlocked country in the heart of South America, between Argentina, Bolivia and Brazil.",
+    "clue2": "It shares the giant Itaipu hydroelectric dam with Brazil, and Guarani is a co-official language.",
+    "clue3": "Its national flag is unusual because the front and back have different emblems.",
+    "difficulty": "extreme"
+  },
+  {
+    "country": "Guyana",
+    "clue1": "It is a country on the northeast coast of South America, bordered by Venezuela, Brazil and Suriname.",
+    "clue2": "It is the only country in South America with English as its official language.",
+    "clue3": "Kaieteur Falls, one of the most powerful single-drop waterfalls in the world, plunges through its rainforest.",
+    "difficulty": "extreme"
+  },
+  {
+    "country": "Suriname",
+    "clue1": "It is the smallest independent country in South America, on the Atlantic coast between Guyana and French Guiana.",
+    "clue2": "It is the only country in South America where Dutch is the official language.",
+    "clue3": "Around 90 percent of its land is covered by rainforest, among the highest forest cover of any country.",
+    "difficulty": "extreme"
+  },
+  {
+    "country": "Australia",
+    "clue1": "It is both a country and a continent, surrounded by the Indian and Pacific Oceans, and is the sixth-largest country in the world.",
+    "clue2": "Its Aboriginal peoples maintain one of the world's oldest continuous cultures, stretching back tens of thousands of years.",
+    "clue3": "Kangaroos, koalas, the Sydney Opera House and the Great Barrier Reef are iconic.",
+    "difficulty": "easy"
+  },
+  {
+    "country": "New Zealand",
+    "clue1": "It is an island nation in the southwest Pacific Ocean, southeast of Australia, made up of two main islands.",
+    "clue2": "In 1893 it became the first self-governing country to grant women the right to vote in national elections.",
+    "clue3": "The kiwi bird, the Maori haka war dance and film locations from The Lord of the Rings are iconic.",
+    "difficulty": "easy"
+  },
+  {
+    "country": "Fiji",
+    "clue1": "It is an archipelago of more than 300 islands in the South Pacific, east of Vanuatu.",
+    "clue2": "It won its first Olympic gold medal in rugby sevens at the 2016 Games.",
+    "clue3": "It is known for the traditional yaqona, or kava, ceremony and for luxury island resorts.",
+    "difficulty": "medium"
+  },
+  {
+    "country": "Papua New Guinea",
+    "clue1": "It occupies the eastern half of the world's second-largest island, along with many smaller islands, north of Australia.",
+    "clue2": "It is the most linguistically diverse country in the world, with more than 800 languages.",
+    "clue3": "Its rainforests are home to many birds-of-paradise, and the Kokoda Track was the site of fierce fighting in World War II.",
+    "difficulty": "hard"
+  },
+  {
+    "country": "Samoa",
+    "clue1": "It is a Polynesian island nation in the South Pacific, roughly midway between Hawaii and New Zealand.",
+    "clue2": "In 2011 it jumped across the International Date Line, skipping December 30 entirely.",
+    "clue3": "The fire-knife dance, known as siva afi, originated here.",
+    "difficulty": "extreme"
+  },
+  {
+    "country": "Tonga",
+    "clue1": "It is a Polynesian archipelago of about 170 islands in the South Pacific, south of Samoa and east of Fiji.",
+    "clue2": "It was never formally colonized and remains a monarchy today.",
+    "clue3": "Humpback whales migrate here each year, and visitors can swim alongside them.",
+    "difficulty": "extreme"
+  },
+  {
+    "country": "Palau",
+    "clue1": "It is an island nation in the western Pacific Ocean, east of the Philippines.",
+    "clue2": "It created one of the world's first national shark sanctuaries in 2009.",
+    "clue3": "Jellyfish Lake, where visitors snorkel among stingless jellyfish, and the mushroom-shaped Rock Islands are iconic.",
+    "difficulty": "extreme"
+  },
+  {
+    "country": "Vanuatu",
+    "clue1": "It is a Y-shaped archipelago of about 80 islands in the South Pacific, west of Fiji and east of Australia.",
+    "clue2": "It is the birthplace of bungee jumping, which is based on a land-diving ritual on Pentecost Island.",
+    "clue3": "Mount Yasur on Tanna Island is one of the most accessible active volcanoes in the world.",
+    "difficulty": "extreme"
+  },
+  {
+    "country": "Nauru",
+    "clue1": "It is a tiny island nation in Micronesia in the central Pacific, just south of the equator.",
+    "clue2": "It is the world's smallest island nation, and its economy once depended heavily on phosphate mining.",
+    "clue3": "It has no official capital city, though its government offices are in the Yaren district.",
+    "difficulty": "extreme"
+  }
+]

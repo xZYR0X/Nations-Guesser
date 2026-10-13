@@ -1,5 +1,3 @@
-const { response } = require("express");
-
 let active;
 
 function hallowenstuff(){
@@ -36,8 +34,8 @@ form.addEventListener('submit', (e)=>{
         headers: {"Content-type": "application/json"},
         body: JSON.stringify({
             diff: active,
-            num: num
-        })
+            number: num
+        }),
     })
     .then(response=> response.json())
     .then(result=>{
