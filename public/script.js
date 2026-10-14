@@ -52,9 +52,14 @@ form.addEventListener('submit', (e)=>{
                 clue2.push(data[i].clue2);
                 clue3.push(data[i].clue3);
             }
-            console.log(clue1)
+            console.log(clue1);
             document.querySelector('.container').style.display= "none";
             document.querySelector('.containerr').style.display = "flex";
+            const boxs =  document.querySelectorAll('.box');
+            for(let i=0; i<data.length; i++){
+                boxs[i].classList.remove('displaynone');
+                console.log(i)
+            }
             box();
         }
     })

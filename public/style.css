@@ -216,9 +216,6 @@ input[type="number"], input[type="text"]{
     width: 250px;
     animation: shootup 0.6s  cubic-bezier(0.25, 1, 0.5, 1) forwards;
 }
-.displaynone{
-    display: none;
-}
 @keyframes shootup{
     0%{
         bottom: -150px;
@@ -289,4 +286,13 @@ input[type="text"]{
     width: 250px;
     border: 1px solid var(--border);
 
+}
+#reveal-clue{
+    border-radius: 10px;
+    width: 150px;
+    height: 50px;
+}
+
+.displaynone{
+    display: none;
 }
