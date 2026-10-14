@@ -267,6 +267,7 @@ button, a{
     opacity: 0.4;
     background-color: black;
     border-color: white;
+    pointer-events: none;
 }
 .b{
     position: absolute;
