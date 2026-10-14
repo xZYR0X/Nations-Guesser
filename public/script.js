@@ -4,6 +4,8 @@ let clue1 = [];
 let clue2 = [];
 let clue3 = [];
 let qnnum;
+let realans;
+
 
 function hallowenstuff(){
     const ghost = document.querySelector('.spooky');
@@ -73,6 +75,7 @@ boxes.forEach((a)=>{
         console.log(data);
         qnum = a.dataset.number;
         console.log(qnum);
+        realans = data[qnum-1].country;
         document.querySelector('.b').style.display = "flex";
         
     })
@@ -95,7 +98,6 @@ let i = 0;
            i++;
     })
 }
-
 document.querySelector('#go-back').addEventListener('click', ()=>{
     document.querySelector('.b').style.display = "none";
     i = 0;
@@ -103,4 +105,28 @@ document.querySelector('#go-back').addEventListener('click', ()=>{
         a.innerText = "";
         box();
     })
+})
+function goback(){
+    document.querySelector('.b').style.display = "none";
+    i = 0;
+    document.querySelectorAll('.clue').forEach((a)=>{
+        a.innerText = "";
+        box();
+    })
+}
+
+document.querySelector('.guessed-ans').addEventListener('keydown', (e)=>{
+    if(e.key==="Enter"){
+        e.preventDefault();
+        console.log("ENTER PRESSED!!");
+        const guessed = document.querySelector('.guessed-ans').value;
+        console.log(realans.toLowerCase());
+        console.log(guessed.toLowerCase());
+        if(realans.toLowerCase() == guessed.toLowerCase() ){
+            alert("YOU GUESSED IT RIGHT!!!!");
+        }else{
+            alert(`YOU GUESSED WRONG, lmao noob it was ${realans}`);
+            goback();
+        }
+    }
 })
