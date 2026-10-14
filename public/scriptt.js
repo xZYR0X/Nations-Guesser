@@ -1,6 +1,7 @@
 let active;
 let activee;
 let country = [];
+let countryname;
 
 const diffs = document.querySelectorAll('.diff-btn');
 diffs.forEach((diff)=>{
@@ -49,7 +50,7 @@ formm.addEventListener('submit', (e)=>{
     .then(result=>{
         if(result.success){
             country = result.country;
-            let countryname = country.name;
+            countryname = country.name;
             let imglink = country.img;
 
             document.querySelector('.r').classList.add('displaynone');
@@ -60,4 +61,19 @@ formm.addEventListener('submit', (e)=>{
             `;
         }
     })
+})
+
+document.querySelector('#guessed-ans').addEventListener('keydown', (e)=>{
+    if(e.key==='Enter'){
+        e.preventDefault();
+        console.log("PRESSED");
+        const guessedans = document.querySelector('#guessed-ans').value;
+        if(guessedans.toLowerCase()===countryname.toLowerCase()){
+            alert("You guessed it right!");
+            return;
+        }else{
+            alert(`WRONG! It was ${countryname}`);
+            return;
+        }
+    }
 })
