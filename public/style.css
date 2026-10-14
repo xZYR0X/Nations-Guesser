@@ -167,7 +167,7 @@ input[type="number"], input[type="text"]{
     background-color: var(--bg);
     color: var(--text);
 }
-#submit{
+#submit, .submit{
     margin-top: 30px;
     display: flex;
     align-items: center;
@@ -186,12 +186,12 @@ input[type="number"], input[type="text"]{
 }
 .hallowen-spookystuffs{
     position: absolute;
-    right: -30px;
-    top: -30px;
+    right: -65px;
+    top: -65px;
 }
 .hallowen-spookystuffs img{
-    height: 60px;
-    width: 70px;
+    height: 110px;
+    width: 110px;
     background: transparent;
     transform: rotate(45deg);
 }
@@ -346,4 +346,25 @@ a{
 }
 .back a{
     color: var(--headings);
+}
+.d{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    height: 55vh;
+}
+#continent, .difficulty{
+    margin-bottom: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+#continent label{
+    margin-bottom: 15px;
+}
+.d h1{
+    font-size: 64px;
+    font-weight: 800;
+    cursor: pointer;
 }

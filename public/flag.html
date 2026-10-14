@@ -9,11 +9,76 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&family=Nunito+Sans:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
 </head>
-<body>
-    <div class="container">
+<body class="body">
+    
+        <div class="back">
+            <a href="index.html">Back</a>
+        </div>
 
+    <div class="container">
+        <div class="intro d">
+
+            <img src="b.png" alt="a" class="displaynone spooky">
+
+            <div class="hallowen-spookystuffs">
+                <img src="pumpkinn.png" alt="aa">
+            </div>
+
+            <div class="hallowen-spookystuffss">
+                <img src="c.png" alt="aa">
+            </div>
+
+            <img src="b.png" class="displaynone" alt="a">
+
+            <h1 onclick="hallowenstuff()">Nexora</h1>
+
+            <form id="formm">
+                <div id="continent">
+                    <label>Select the continent!</label>
+
+                    <div id="continents">
+
+                        <button type="button" class="btn con-btn" data-con="asia">Asia & Ocenia</button>
+
+                        <button type="button" class="btn con-btn" data-con="europe">Europe</button>
+
+                        <button type="button" class="btn con-btn" data-con="south america">South America</button>
+
+                        <button type="button" class="btn con-btn" data-con="north america">North America</button>
+
+                        <button type="button" class="btn con-btn" data-con="africa">Africa</button>
+
+                    </div>
+
+                </div>
+
+                <div class="difficulty">
+
+                        <label>Select the difficulty!</label>
+
+                        <div class="buttons">
+                            <button type="button" class="btn diff-btn active" data-diff="easy">Easy</button>
+
+                            <button type="button" class="btn diff-btn" data-diff="medium">Medium</button>
+
+                            <button type="button" class="btn diff-btn" data-diff="hard">Hard</button>
+                            
+                            <button type="button" class="btn diff-btn" data-diff="extreme">Extreme</button>
+
+                        </div>
+
+                    </div>
+
+                <div class="submit">
+                    <button class="btn submit-btn" type="submit">Generate</button>
+                </div>
+
+            </form>
+
+        </div>
     </div>
     
+    <script src="scriptt.js"></script>
     <script src="script.js"></script>
 </body>
 </html>
