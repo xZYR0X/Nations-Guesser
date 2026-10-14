@@ -174,6 +174,7 @@ input[type="number"], input[type="text"]{
     justify-content: center;
 }
 .submit-btn, #reveal-clue, #go-back{
+    text-decoration: none;
     background-color: var(--button);
     color: var(--bg);
     font-size: 25px;
@@ -298,4 +299,13 @@ input[type="text"]{
 
 .displaynone{
     display: none;
+}
+.back-a{
+    width: 100px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    border-radius: 10px;
 }

@@ -34,6 +34,10 @@ diffbtns.forEach((diffbtn)=>{
 const form = document.querySelector('form');
 form.addEventListener('submit', (e)=>{
     e.preventDefault();
+    if(!active){
+        alert("Please Select a difficulty!");
+        return;
+    }
     const num = document.querySelector('input[type="number"]').value;
     console.log(active);
     console.log(num);
