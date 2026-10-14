@@ -142,3 +142,6 @@ document.querySelector('.guessed-ans').addEventListener('keydown', (e)=>{
         }
     }
 })
+    if(points>=1000){
+     alert("YOU WIN THE ULTIMATE PRIZE OF NEXORA FOR GUESSING COUNTRIES AND ACHEIVING THE MILESTONE OF 1000 POINTS.");
+    }
