@@ -107,7 +107,7 @@ h1,h2,h3{
     text-align: center;
     background-color: var(--button);
     width: 90px;
-    height: 30px;
+    height: 23px;
     font-family: 'Fredoka', sans-serif;
     padding: 10px;
     border: 1px solid var(--border);
@@ -308,4 +308,42 @@ input[type="text"]{
     justify-content: center;
     border: none;
     border-radius: 10px;
+}
+a{
+    text-decoration: none;
+}
+.c{
+    display: flex;
+    justify-content: center;
+    background-color: var(--bg);
+    border: none;
+}
+.select{
+    width: 50%;
+    background-color: var(--bg);
+    height: 100%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 64px;
+    font-weight: 800;
+    color: var(--text);
+    font-family: 'Fredoka', sans-serif;
+    border: 1px solid var(--border);
+    border-radius: 15px;
+}
+.selectt{
+    color: var(--text);
+}
+.body{
+    position: relative;
+}
+.back{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+.back a{
+    color: var(--headings);
 }
