@@ -95,3 +95,12 @@ let i = 0;
            i++;
     })
 }
+
+document.querySelector('#go-back').addEventListener('click', ()=>{
+    document.querySelector('.b').style.display = "none";
+    i = 0;
+    document.querySelectorAll('.clue').forEach((a)=>{
+        a.innerText = "";
+        box();
+    })
+})
