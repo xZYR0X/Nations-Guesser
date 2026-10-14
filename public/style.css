@@ -233,7 +233,7 @@ input[type="number"], input[type="text"]{
 button, a{
     cursor: pointer;
 }
-.active{
+.active, .activee{
     border: 1px solid var(--border);
 }
 .boxes{
