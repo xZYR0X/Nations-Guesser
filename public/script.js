@@ -3,6 +3,7 @@ let data;
 let clue1 = [];
 let clue2 = [];
 let clue3 = [];
+let qnnum;
 
 function hallowenstuff(){
     const ghost = document.querySelector('.spooky');
@@ -62,12 +63,30 @@ function box(){
 const boxes = document.querySelectorAll('.box');
 boxes.forEach((a)=>{
     a.addEventListener('click',()=>{
-        // boxes.forEach((b)=>{
-        //     b.classList.remove('active-box');
-        // })
         a.classList.add('active-box');
         a.style.pointerEvents = "none";
         console.log(data);
+        qnum = a.dataset.number;
+        console.log(qnum);
+        document.querySelector('.b').style.display = "flex";
+        
     })
 })
+let i = 0;
+    document.querySelector('#reveal-clue').addEventListener('click', ()=>{
+        const cluess = document.querySelectorAll('.clue');
+        let requiredclue;
+        if(i == 0){
+           requiredclue =  data[qnum-1].clue1;
+        }else if(i==1){
+            requiredclue = data[qnum-1].clue2;
+        }else{
+            requiredclue = data[qnum-1].clue3;
+        }
+
+            cluess[i].innerText = `
+                ${i+1}. ${requiredclue}
+            `;
+           i++;
+    })
 }
