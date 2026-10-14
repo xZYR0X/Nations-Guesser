@@ -1,5 +1,6 @@
 let active;
 let activee;
+let country = [];
 
 const diffs = document.querySelectorAll('.diff-btn');
 diffs.forEach((diff)=>{
@@ -46,6 +47,17 @@ formm.addEventListener('submit', (e)=>{
     })
     .then(response => response.json())
     .then(result=>{
+        if(result.success){
+            country = result.country;
+            let countryname = country.name;
+            let imglink = country.img;
 
+            document.querySelector('.r').classList.add('displaynone');
+            document.querySelector('.rr').classList.remove('displaynone');
+
+            document.querySelector('.country-flag').innerHTML = `
+                <img src="${imglink}" alt="Nexora">
+            `;
+        }
     })
 })

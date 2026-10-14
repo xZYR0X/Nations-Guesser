@@ -297,9 +297,6 @@ input[type="text"]{
     height: 50px;
 }
 
-.displaynone{
-    display: none;
-}
 .back-a{
     width: 100px;
     height: 40px;
@@ -367,4 +364,26 @@ a{
     font-size: 64px;
     font-weight: 800;
     cursor: pointer;
+}
+
+.displaynone{
+    display: none;
+}
+.country-flag{
+    width: 30vw;
+    height: 30vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    border: none;
+}
+.e{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.e h2{
+    font-size: 32px;
 }
