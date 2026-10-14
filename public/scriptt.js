@@ -24,3 +24,28 @@ continents.forEach((con)=>{
         console.log(activee);
     })
 })
+
+const formm = document.querySelector('#formm');
+formm.addEventListener('submit', (e)=>{
+    e.preventDefault();
+    console.log(active);
+    console.log(activee);
+
+    if(!active || !activee){
+        alert("Please enter both continent's and difficulty's value to continue!");
+        return;
+    }
+
+    fetch('/savee', {
+        method: "POST",
+        headers: {'Content-type': 'application/json'},
+        body: JSON.stringify({
+            difficulty: active,
+            continent: activee
+        })
+    })
+    .then(response => response.json())
+    .then(result=>{
+
+    })
+})

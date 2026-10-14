@@ -11,6 +11,9 @@ app.use(express.static(path.join(__dirname, 'public')));
 const data = fs.readFileSync('countries.json', 'utf8');
 const parsed_data = JSON.parse(data);
 
+const dataa = fs.readFileSync('flag-countries.json', 'utf8');
+const parsed_dataa = JSON.parse(dataa);
+
 app.post('/save', (req,res)=>{
     const num = req.body.number;
     const diff = req.body.diff;
@@ -20,6 +23,23 @@ app.post('/save', (req,res)=>{
         success: true,
         countries: b
     })  
+})
+
+app.post('/savee', (req,res)=>{
+    const diff = req.body.difficulty;
+    const continent = req.body.continent;
+    const a = parsed_dataa.filter(p=>p.diff==diff);
+    const b = a.filter(c=>c.continent==continent);
+    const randomnum = Math.floor(Math.random() * b.length);
+    const givingvalue = b[randomnum];
+    console.log(givingvalue);
+
+    res.json({
+        success: true,
+        country: givingvalue
+    })
+    console.log("DONE");
+
 })
 
 app.listen(port, ()=>{
