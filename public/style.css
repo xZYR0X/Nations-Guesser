@@ -388,3 +388,47 @@ a{
 .e h2{
     font-size: 32px;
 }
+.submit-btn{
+    position: relative;
+}
+.hallowen-spookyitem{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.itemm{
+    height: 40px;
+    width: 50px;
+    transform: rotate(30deg);
+}
+.g{
+    position: absolute;
+    top: -5px;
+    left: -5px;
+}
+.g img{
+    transform: rotate(-30deg);
+}
+.play-nexora{
+    position: relative;
+}
+.hallowen-spookyitemm{
+    position: absolute;
+    bottom: -5px;
+    left: -5px;
+}
+.hallowen-spookyitemm img{
+    transform: rotate(-120deg);
+}
+#reveal-clue{
+    position: relative;
+}
+.hallowen-spookyitemmm{
+    position: absolute;
+    bottom: -5px;
+    right: -5px;
+}
+.hallowen-spookyitemmm img{
+    transform: rotate(120deg);
+}
