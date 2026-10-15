@@ -8,10 +8,16 @@ const { json } = require('stream/consumers');
 app.use(express.json())
 app.use(express.static(path.join(__dirname, 'public')));
 
-const data = fs.readFileSync('countries.json', 'utf8');
+const data = fs.readFileSync(
+  path.join(__dirname, 'countries.json'),
+  'utf8'
+);
 const parsed_data = JSON.parse(data);
 
-const dataa = fs.readFileSync('flag-countries.json', 'utf8');
+const dataa = fs.readFileSync(
+  path.join(__dirname, 'flag-countries.json'),
+  'utf8'
+);
 const parsed_dataa = JSON.parse(dataa);
 
 app.post('/save', (req,res)=>{
