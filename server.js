@@ -26,10 +26,11 @@ app.post('/save', (req,res)=>{
 })
 
 app.post('/savee', (req,res)=>{
-    const diff = req.body.difficulty;
-    const continent = req.body.continent;
+    const diff = req.body.difficulty.toLowerCase();
+    const continent = req.body.continent.toLowerCase();
     const a = parsed_dataa.filter(p=>p.diff==diff);
     const b = a.filter(c=>c.continent==continent);
+    console.log(b.length);
     const randomnum = Math.floor(Math.random() * b.length);
     const givingvalue = b[randomnum];
     console.log(givingvalue);

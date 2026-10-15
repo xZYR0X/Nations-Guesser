@@ -52,6 +52,7 @@ formm.addEventListener('submit', (e)=>{
             country = result.country;
             countryname = country.name;
             let imglink = country.img;
+            console.log(countryname);
 
             document.querySelector('.r').classList.add('displaynone');
             document.querySelector('.rr').classList.remove('displaynone');
