@@ -43,6 +43,6 @@ I have implemented many spooky hallowen items here for fun and the theme which a
 <hr>
 
 ## Live Demo
-You can play this on your device by clicking [here](https://nexora-c97s.onrender.com/)!
+You can play this on your device by clicking [here](https://nexora-navy-kappa.vercel.app/)!
 
 <hr>
