@@ -32,6 +32,9 @@ Nexora is a simple web application where you can test your geography skills by g
 
 <hr>
 
+## Ai Used:
+I have used ai for making the json files and finding the images of so much countries.
+
 ## Hallowen Items Implementation
 I have implemented many spooky hallowen items here for fun and the theme which are listed below:
 - Pumpkin image
